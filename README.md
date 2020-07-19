@@ -1,4 +1,4 @@
-# Jp Morgan Virtual Software Engineering Internship
+# JP Morgan Virtual Software Engineering Internship
 The following repository contains the Patch files I had submitted for the internship and the certificate of completion
 
 # Certificate of Completion
